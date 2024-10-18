@@ -1,1 +1,6 @@
+Flask
+APScheduler
+ccxt
+pandas
+boto3
 
